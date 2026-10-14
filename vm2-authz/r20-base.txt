@@ -1,0 +1,1 @@
+VM2 R20 controlled base branch marker, A-owned. This text is inert. Its presence in A's head branch after an update proves a real branch writer.
