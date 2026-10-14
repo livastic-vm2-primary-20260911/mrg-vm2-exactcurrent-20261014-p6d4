@@ -1,0 +1,2 @@
+VM2 comparison fixture 2026-10-14.
+This text file changes no workflows and has no executable code.
