@@ -1,0 +1,4 @@
+VM2 Mergify controlled queue authorization test R13.
+This is an inert file. It has no executable content or CI behavior.
+A owner will issue a pending queue command; B read-only tests dequeue permission.
+Do not merge.
