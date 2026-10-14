@@ -1,0 +1,14 @@
+# Mergify VM2 exact-current, intentionally non-merging security lab
+merge_queue:
+  mode: serial
+queue_rules:
+  - name: vm2-manual-guarded-20261014
+    queue_conditions:
+      - base = main
+    merge_conditions:
+      - check-success = VM2_SECURITY_GUARD_NEVER_GREEN_20261014
+    merge_method: merge
+commands_restrictions:
+  queue:
+    conditions:
+      - sender-permission >= write
