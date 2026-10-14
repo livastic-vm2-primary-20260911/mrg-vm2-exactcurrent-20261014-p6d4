@@ -1,0 +1,3 @@
+VM2 owned single-root dequeue authorization test, 2026-10-14.
+Inert file; no workflow, GitHub Actions, secrets, production or protected main edits.
+The PR shall remain unmerged and the temporary head branch shall be deleted.
